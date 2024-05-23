@@ -8,5 +8,12 @@ New addition
 
 Also new content.
 
+<<<<<<< HEAD
+Development branch addition.
+=======
+
+More content
+>>>>>>> origin/main
+
 
 More content
